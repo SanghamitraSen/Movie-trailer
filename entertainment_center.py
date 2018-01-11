@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import media
 import fresh_tomatoes
 #MY FAVOURITE MOVIES(INSTANCES OF CLASS 'Movie')
@@ -22,7 +23,7 @@ shrek=media.Movie("Shrek",
             "https://www.youtube.com/watch?v=W37DlG1i61s" 
             )
 inside_out=media.Movie("Inside Out",
-                 "A story about The film is set in the mind of a young girl where five personified emotions—Joy,Sadness,Anger,Fear and Disgust try to lead her through life as her parents move from Minnesota to San Francisco, and she has to adjust to her new surroundings.",
+                 "A story about The film is set in the mind of a young girl where five personified emotionsâ€”Joy,Sadness,Anger,Fear and Disgust try to lead her through life as her parents move from Minnesota to San Francisco, and she has to adjust to her new surroundings.",
                  "https://upload.wikimedia.org/wikipedia/en/0/0a/Inside_Out_%282015_film%29_poster.jpg",
                  "https://www.youtube.com/watch?v=seMwpP0yeu4"
                  )
